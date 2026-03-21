@@ -1,6 +1,6 @@
 # Linear-Block-Code
 # NAME:SUJITHA ESTHER S
-# REG NUM:212224060266
+# REG NO:212224060266
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
